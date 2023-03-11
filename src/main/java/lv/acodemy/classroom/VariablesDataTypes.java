@@ -1,5 +1,6 @@
 package lv.acodemy.classroom;
 
+
 import java.util.Arrays;
 
 public class VariablesDataTypes {

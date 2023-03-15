@@ -63,15 +63,15 @@ public class FirstHomeWork {
         System.out.println(beggin);
 
         System.out.printf("My name is %s." +
-                        "I was born in %s! at %d." +
+                        "I was born in %s... at %d!!!\n" +
                         "My mather is %d old, and Father %d yers old." +
-                        "They was merried at %d!!!",
+                        "They was merried at %d.\n",
                 name, wasBorn, myDateofBirth, matherAge, fatherAge, fatherMatherMaried);
-        System.out.printf("From 5 yers I playd %s!" +
-                "I tried play football but is not for me!" +
-                "Did Deniss have work? Yes it`s %s." +
-                "Did Deniss burn in %s. And from child yers play football?" +
-                "Yep, It`s %s! becouse he was born in %d but about football is %s!!!",
+        System.out.printf("From 5 yers I playd %s." +
+                "I tried play football but is not for me!\n" +
+                "Did Deniss have work? Yes it`s %s.\n" +
+                "Did Deniss burn in %s. And from child yers play football?\n" +
+                "Yep, It`s %s! becouse he was born in %d but about football is %s!!!\n",
                 sport,hasWork, wasBorn, isPlayHockey, myDateofBirth, isPlayFootball);
 
         // testing
